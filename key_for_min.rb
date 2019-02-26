@@ -4,4 +4,3 @@
 def key_for_min_value(hash)
   hash.min_by{|k,v| k}
 end
-end
