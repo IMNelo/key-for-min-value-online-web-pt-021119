@@ -10,3 +10,4 @@ def key_for_min_value(ikea)
   return "#{k}"
 end
 end
+end
