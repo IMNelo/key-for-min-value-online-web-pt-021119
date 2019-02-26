@@ -7,7 +7,6 @@
 
 def key_for_min_value(ikea)
   ikea.min_by do |k,v|
-  return "#{k}"
-end
+  #{k}"
 end
 end
